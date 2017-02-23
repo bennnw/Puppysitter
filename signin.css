@@ -1,0 +1,117 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Arial', serif;
+}
+
+div {
+	margin-top: 13%;
+	margin-bottom: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 450px;
+}
+
+.title {
+	border-bottom: 1px solid;
+	border-bottom-color: #000;
+}
+
+.signin1 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+}
+
+.signin2 {
+	border-bottom: 1px solid;
+	border-bottom-color: #000;
+}
+
+h1 {
+	font-size: 26px;
+	font-weight: 100;
+	color: #000;
+	margin: 0 0 6px 0;
+	text-align: center;
+}
+
+.boxes {
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+}
+
+.box1 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 300px;
+	height: 40px;
+	margin-top: 16px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+.box2 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 300px;
+	height: 40px;
+	margin-top: 10px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+h2 {
+	padding-left: 1px;
+	margin-top: 1px;
+	margin-bottom: 12px;
+}
+
+h2 a {
+	font-size: 12px;
+	font-weight: 100;
+	text-decoration: none;
+	color: #000;
+}
+
+.signinbtn{
+	font-size: 14px;
+	font-weight: 100;
+	width: 300px;
+	height: 36px;
+	margin-top: 10px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+h3 {
+	font-size: 15px;
+	font-weight: 100;
+	color: #000;
+	margin: 12px 0 0 0;
+	text-align: center;
+}
+
+.rbtn {
+	font-size: 14px;
+	font-weight: 100;
+	width: 160px;
+	height: 36px;
+	margin-top: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

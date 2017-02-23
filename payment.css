@@ -1,0 +1,206 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Arial', serif;
+}
+
+div {
+	margin-top: 13%;
+	margin-bottom: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+.title {
+	border-bottom: 1px solid;
+	border-bottom-color: #000;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight: 100;
+	color: #000;
+	margin: 0 0 6px 0;
+	text-align: center;
+}
+
+.boxes {
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+}
+
+.payby {
+	font-size: 14px;
+	font-weight: 100;
+	border: 1px solid;
+	border-color: #000;
+	background-color: #fff;
+	width: 500px;
+	height: 36px;
+	margin-top: 16px;
+}
+
+.box1 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 500px;
+	height: 40px;
+	margin-top: 10px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+.box2 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 100px;
+	height: 38px;
+	margin-top: 10px;
+	margin-bottom: 16px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+.month {
+	font-size: 14px;
+	font-weight: 100;
+	border: 1px solid;
+	border-color: #000;
+	background-color: #fff;
+	width: 130px;
+	height: 36px;
+	margin-top: 10px;
+	margin-bottom: 16px;
+	margin-left: 10px;
+}
+
+.year {
+	font-size: 14px;
+	font-weight: 100;
+	border: 1px solid;
+	border-color: #000;
+	background-color: #fff;
+	width: 241px;
+	height: 36px;
+	margin-top: 10px;
+	margin-bottom: 16px;
+	margin-left: 10px;
+}
+
+.box3 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 500px;
+	height: 40px;
+	margin-top: 16px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+.country {
+	font-size: 14px;
+	font-weight: 100;
+	border: 1px solid;
+	border-color: #000;
+	background-color: #fff;
+	width: 265px;
+	height: 36px;
+	margin-top: 10px;
+}
+
+.province {
+	font-size: 14px;
+	font-weight: 100;
+	border: 1px solid;
+	border-color: #000;
+	background-color: #fff;
+	width: 220px;
+	height: 36px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.box4 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 170px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 16px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+.box5 {
+	font-size: 14px;
+	font-weight: 100;
+	width: 315px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 16px;
+	margin-left: 10px;
+	padding-left: 8px;
+	color: #000;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #000;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: 100;
+	color: #000;
+	margin: 0 0 6px 0;
+	text-align: center;
+}
+
+.summary {
+	margin-top: 16px;
+	margin-bottom: 12px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 550px;
+}
+
+.order {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	border-bottom: 1px solid;
+	border-bottom-color: #000;
+}
+
+label {
+	font-size: 14px;
+	font-weight: 100;
+	color: #000;
+}
+
+.paynow {
+	margin-top: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 14px;
+	font-weight: 100;
+	width: 160px;
+	height: 36px;
+	margin-top: 10px;
+	color: #fff;
+	background-color: #000;
+	border: 1px solid;
+	border-color: #000;
+ }
